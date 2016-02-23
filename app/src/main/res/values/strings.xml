@@ -1,0 +1,33 @@
+<resources>
+    <string name="gcm_defaultSenderId">null</string>
+    <string name="app_name">Journeys</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_search">Search</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+
+    <string name="nav_item_home">Home</string>
+    <string name="nav_item_addjourney">Add Journey</string>
+    <string name="nav_item_search_ride">Search Ride</string>
+    <string name="nav_item_profile">Update Profile</string>
+    <string name="nav_item_chat">Chat</string>
+    <string name="nav_item_car_trace">Trace Location</string>
+    <string name="nav_item_signout">Sign out</string>
+
+
+    <!-- navigation drawer item labels  -->
+    <string-array name="nav_drawer_labels">
+        <item>@string/nav_item_home</item>
+        <item>@string/nav_item_addjourney</item>
+        <item>@string/nav_item_search_ride</item>
+        <item>@string/nav_item_profile</item>
+        <item>@string/nav_item_chat</item>
+        <item>@string/nav_item_car_trace</item>
+        <item>@string/nav_item_signout</item>
+    </string-array>
+
+    <string name="title_search_ride">Search Ride</string>
+    <string name="title_add_journey">Add Journey</string>
+    <string name="title_home">Home</string>
+
+</resources>
